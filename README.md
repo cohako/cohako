@@ -16,7 +16,7 @@ There I fell in love with the world of development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/muriloramos/)
 [![Gmail Badge](https://img.shields.io/badge/-murilo.ramos@rebase.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:murilo.ramos@rebase.com.br)
-
+---
 ### ⚡ These are some of the technologies I use in my daily life. ⚡
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -26,7 +26,11 @@ There I fell in love with the world of development.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
+---
+### 📣 Fun Facts 📣
+ - Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to lock and glow when placed in UV light?
 
+  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cohako.cohako)
 
 <!--
