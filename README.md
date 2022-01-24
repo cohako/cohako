@@ -12,15 +12,17 @@ My developer career started when I applied for a study position on the [Treinade
 There I fell in love with the world of development.
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohako&hide=TeX&layout=compact&theme=radical)
-![Snakesss](https://github.com/cohako/cohako/blob/output/github-contribution-grid-snake.svg)
-
 ---
 ### 🛰️ You can found me on 🛰️
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/muriloramos/)
 [![Gmail Badge](https://img.shields.io/badge/-murilo.ramos@rebase.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:murilo.ramos@rebase.com.br)
+
+---
+### My Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohako&hide=TeX&layout=compact&theme=radical)
+
 ---
 ### ⚡ These are some of the technologies I use in my daily life. ⚡
 
@@ -32,6 +34,9 @@ There I fell in love with the world of development.
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
 ---
+
+![Snakesss](https://github.com/cohako/cohako/blob/output/github-contribution-grid-snake.svg)
+
 ### 📣 Fun Facts 📣
 
    Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to lock and glow when placed in UV light?
