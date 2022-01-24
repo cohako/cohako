@@ -38,7 +38,7 @@ There I fell in love with the world of development.
 
 
 <p align="center">
- <img height="165em" src="https://www.clipartmax.com/png/full/166-1661075_kawaii-platypus-gif.png"/>
+ <img height="100em" src="https://www.clipartmax.com/png/full/166-1661075_kawaii-platypus-gif.png"/>
 </p>
   
 
