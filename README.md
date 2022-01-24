@@ -20,7 +20,7 @@ There I fell in love with the world of development.
 [![Telegram](https://img.shields.io/badge/Cohako-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Cohako)
 
 ---
-### My Stats
+### 🚀 My Stats 🚀
 
 <p align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
