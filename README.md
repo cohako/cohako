@@ -16,6 +16,8 @@ There I fell in love with the world of development.
 ### 🛰️ You can find me on 🛰️
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/muriloramos)](https://www.linkedin.com/in/muriloramos/)
+[![Outlook](https://img.shields.io/badge/muri.ilo@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:muri.ilo@hotmail.com)](mailto:muri.ilo@hotmail.com)
+[![Telegram](https://img.shields.io/badge/Cohako-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Cohako)
 
 ---
 ### My Stats
