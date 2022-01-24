@@ -4,7 +4,7 @@ I'm Murilo Ramos, but you can call me Cohako.
 On a daily basis, I'm mostly using Ruby on Rails, but being a beginner\
 developer who still has a lot to learn, I always try to discover new things!
 
-My developer career started when I applied for a study position on the Treinadev project in 2021.\
+My developer career started when I applied for a study position on the [Treinadev](https://treinadev.com.br/) project in 2021.\
 There I fell in love with the world of development.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
