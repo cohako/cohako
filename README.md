@@ -21,8 +21,11 @@ There I fell in love with the world of development.
 
 ---
 ### My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohako&hide=TeX&layout=compact&theme=radical)
+
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cohako&hide=TeX&layout=compact&theme=radical" alt="Sophia-15"/>
+</p>
 
 ---
 ### ⚡ These are some of the technologies I use in my daily life. ⚡
