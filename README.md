@@ -13,10 +13,9 @@ There I fell in love with the world of development.
 </p>
 
 ---
-### 🛰️ You can found me on 🛰️
+### 🛰️ You can find me on 🛰️
 
-[![Linkedin Badge](https://img.shields.io/badge/-Murilo_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina/)](https://www.linkedin.com/in/muriloramos/)
-[![Gmail Badge](https://img.shields.io/badge/-murilo.ramos@rebase.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianareginadr19@gmail.com)](mailto:murilo.ramos@rebase.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Murilo_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/muriloramos)](https://www.linkedin.com/in/muriloramos/)
 
 ---
 ### My Stats
