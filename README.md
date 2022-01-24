@@ -1,11 +1,16 @@
-## Hey there 👋
-
+## Hey there 👋 
+<p> 
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cohako.cohako"/>
+</p>
+</br>
+<p>
 I'm Murilo Ramos, but you can call me Cohako.
-On a daily basis, I'm mostly using Ruby on Rails, but being a beginner\
+On a daily basis, I'm mostly using Ruby on Rails, but being a beginner
 developer who still has a lot to learn, I always try to discover new things!
 
-My developer career started when I applied for a study position on the [Treinadev](https://treinadev.com.br/) project in 2021.\
+My developer career started when I applied for a study position on the [Treinadev](https://treinadev.com.br/) project in 2021.
 There I fell in love with the world of development.
+</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cohako&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohako&hide=TeX&layout=compact&theme=radical)
@@ -28,10 +33,15 @@ There I fell in love with the world of development.
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
 ---
 ### 📣 Fun Facts 📣
- - Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to lock and glow when placed in UV light?
 
+   Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to lock and glow when placed in UV light?
+
+
+<p align="center">
+ <img height="165em" src="https://www.clipartmax.com/png/full/166-1661075_kawaii-platypus-gif.png"/>
+</p>
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cohako.cohako)
+
 
 <!--
 **cohako/cohako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
