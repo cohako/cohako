@@ -52,7 +52,7 @@ There I fell in love with the world of development.
 
 ### 📣 Fun Facts 📣
 
-   Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to lock and glow when placed in UV light?
+   Did you know that the platypus is the only aquatic mammal that lays eggs and is venomous. In addition, it utilizes sensors that detect electrical variations to hunt and even glow when placed in UV light?
 
 
 <p align="center">
