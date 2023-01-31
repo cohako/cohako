@@ -35,7 +35,7 @@ There I fell in love with the world of development.
 ![](https://github-profile-trophy.vercel.app/?username=cohako&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-### ⚡ These are some of the technologies I use in my daily life. ⚡
+### ⚡ These are some of the technologies I use or used in my daily life. ⚡
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
